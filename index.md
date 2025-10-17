@@ -11,4 +11,4 @@ in my career. I also believe what code I've learned so far will be good for the 
 
 [Career Exploration PowerPoint](https://github.com/KadenHershberger/IT-Explorations/blob/main/Career%20Exploration%20Group%20Project.pptx)
 
-[Career Exploration paper](/blob/main/Career%20Exploration%5EKadenHershberger.docx)
+[Career Exploration paper](https://github.com/KadenHershberger/IT-Explorations/blob/main/Career%20Exploration%5EKadenHershberger.docx)
