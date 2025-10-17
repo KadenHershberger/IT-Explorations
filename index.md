@@ -9,6 +9,6 @@ in my career. I also believe what code I've learned so far will be good for the 
 
 [City Temps graph](https://lookerstudio.google.com/s/l9a_v-xX6Ps)
 
-[Career Exploration PowerPoint](/blob/main/Career%20Exploration%20Group%20Project.pptx)
+[Career Exploration PowerPoint](https://github.com/KadenHershberger/IT-Explorations/blob/main/Career%20Exploration%20Group%20Project.pptx)
 
 [Career Exploration paper](/blob/main/Career%20Exploration%5EKadenHershberger.docx)
